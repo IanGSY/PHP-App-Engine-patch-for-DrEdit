@@ -3,7 +3,7 @@ PHP App Engine patch for DrEdit
 
 A patch for the [DrEdit (Google Drive Editor) PHP](https://github.com/googledrive/dredit/tree/master/php) example that will allow it to run on [Google App Engine](http://cloud.google.com/appengine)
 
-# Setup Instructions
+### Setup Instructions
 
 1. First, clone the DrEdit repository:
 
