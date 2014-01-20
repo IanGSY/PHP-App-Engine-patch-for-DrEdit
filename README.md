@@ -9,7 +9,7 @@ A patch for the [DrEdit (Google Drive Editor) PHP](https://github.com/googledriv
 
   `git clone https://github.com/googledrive/dredit.git`
 
-1. Ccopy the contents of the php directory into your working directory.
+1. Copy the contents of the php directory into your working directory.
 
 1. Download a copy of the app.yaml file found in this repository.
 
